@@ -3,7 +3,7 @@
 # Práctica 2: Caos en sistemas biológicos
 
 ## Información de la estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Carlos A. Ramirez \[22212267]; L22212267@tectijuana.edu.mx
 
 Gemelos Digitales
 
@@ -35,9 +35,10 @@ Palabras clave: Caos; Conjuntos Compactos Invariantes; Condiciones de Estabilida
 
 ## Actividades a realizar
 1. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
-2. 
-3.
-4.
+2. Desarrollar un algoritmo en MATLAB que permita realizar el procesamiento de los datos, es decir, graficarlos, suavizarlos y normalizarlos.
+3. Calcular los puntos de equilibrio del sistema, graficarlos en el plano de fase y calcula la matriz Jacobiana.
+4. Comparar el efecto de la solución del sistema mediante varios métodos numéricos frente a condiciones iniciales específicas.
+5. Analizar las condiciones de estabilidad asintótica aplicando así un tratamiento para cada caso.
 ...
 
 ## Lista de archivos incluidos en el repositorio
